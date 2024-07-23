@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=fff2cc&fontColor=FFFFFF&height=300&section=header&text=💛SiNiKin's%20Hub💛&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fff2cc&fontColor=333333&height=300&section=header&text=💛SiNiKin's%20Hub💛&fontSize=50)
 
 # Hello SiNiKin's repository👋
 
