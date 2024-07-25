@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 이메일: [tlsdl99@gmail.com](tlsdl99@gmail.com)
 - GitHub: [SiNiKin](https://github.com/SiNiKin)
 
-## 🔧 기술 스택
+## 🌱 기술 스택
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 
 
@@ -57,22 +58,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinikin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinikin&layout=compact&theme=radical)
-
-## 🌱 스터디 및 활동
-
-
-### 스터디
-| 기간                | 활동 유형            | 그룹명 및 링크 |
-|---------------------|----------------------|----------------|
-| | ||
-
-
-### 활동
-
-| 기간                  | 활동 유형            | 세부 사항 |
-|-----------------------|-----------------------|-----------|
-|  |  | 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinikin)
 
 <br>
 
